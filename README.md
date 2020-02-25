@@ -8,6 +8,7 @@
 - SASS _BEM_ blocks
 - _Mobile-first_ pattern
 - Minification _HTML, CSS, JS_
+- _Sourcemaps_ support
 - Minification _Images_ + _Webp_ support
 - Combining SVG into one _SVG Sprite_
 - Linting: _htmlhint, stylelint_
