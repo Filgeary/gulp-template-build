@@ -20,7 +20,7 @@
 
 ### TODO
 
-- add short `Paths` for files to `gulpfile.js`
+- add variable `Paths` for files to `gulpfile.js`
 - add ESlint
 - add deploy via SSH, SFTP
 - others features...
