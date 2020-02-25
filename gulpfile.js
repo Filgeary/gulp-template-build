@@ -110,6 +110,9 @@ function images() {
     .pipe(changed('build/img'))
     .pipe(
       imagemin([
+        imagemin.gifsicle({
+          interlaced: true
+        }),
         imagemin.optipng({
           optimizationLevel: 5,
           interlaced: true
