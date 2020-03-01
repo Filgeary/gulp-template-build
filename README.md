@@ -4,17 +4,17 @@
 
 ## Features
 
-- **Live Reload** browser
-- SASS **BEM** blocks
-- **Mobile-first** pattern
-- Minification **HTML, CSS, JS**
-- **Sourcemaps** support
-- Minification **Images** + **Webp** support
-- Merge SVG into one **SVG Sprite**
-- Linting: **htmlhint, stylelint**
-- Formatting: **stylelint, prettier**
-- Tools: **Babel, Autoprefixer, Browserslist**
-- **Pre-commit hooks** : stylelint, prettier
+- Live Reload browser
+- SASS BEM blocks
+- Mobile-first pattern
+- Minification HTML, CSS, JS
+- Sourcemaps support
+- Minification Images + Webp support
+- Merge SVG into one SVG Sprite
+- Linting: htmlhint, stylelint
+- Formatting: stylelint, prettier
+- Tools: Babel, Autoprefixer, Browserslist
+- Pre-commit hooks : stylelint, prettier
 - Deploy to `gh-pages` branch
 - 2 Servers: `devServer` & `prodServer`
 
