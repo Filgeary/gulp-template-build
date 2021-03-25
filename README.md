@@ -20,6 +20,8 @@
 
 ### TODO
 
+- rewrite `require` to `import` (need babel?)
+- fix `devServer` & `prodServer` & `Watch files`
 - add variable `Paths` for files to `gulpfile.js`
 - add ESlint
 - add deploy via SSH, SFTP
