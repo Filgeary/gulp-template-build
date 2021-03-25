@@ -9,7 +9,7 @@
 - Mobile-first pattern
 - Minification HTML, CSS, JS
 - Sourcemaps support
-- Minification Images + Webp support
+- Minification Images + Webp support (webp only via `prodServer` in `build` folder)
 - Merge SVG into one SVG Sprite
 - Linting: htmlhint, stylelint
 - Formatting: stylelint, prettier
