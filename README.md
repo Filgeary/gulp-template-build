@@ -1,4 +1,4 @@
-# gulp4 template build - FrontEnd Ready
+# gulp template build - FrontEnd Ready
 
 > Work in progress
 
